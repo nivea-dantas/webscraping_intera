@@ -86,18 +86,3 @@ for i in range(0,comp_posicao):
     ad_jogador["posicao_jogador"] = vetor_ad_posicao_jogador[i].getText(strip=True)
     ad_list.append(ad_jogador)
 print(ad_list)
-
-
-# In[11]:
-
-
-'''Peço desculpas por não conseguir realizar a categorização entre as posições dos jogadores e os mesmos.
-Tentei até a exaustão, mas não consegui extrair a lógica. A metodologia fugiu ao meu conhecimento,
-pois ainda estou em fase de aprendizagem'''
-
-
-# In[ ]:
-
-
-
-
