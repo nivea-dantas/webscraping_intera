@@ -1,5 +1,5 @@
 # webscraping_intera
-Web Scrapping para a seleção da Intera.
+Web Scrapping.
 
 Extração de dados da pagina do site do flamento, contendo jogadores, imagem e posição.
 
